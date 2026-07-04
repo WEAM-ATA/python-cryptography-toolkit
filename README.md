@@ -122,7 +122,7 @@ python main.py
 
 
 
-![[Main-Menu](Images/main-menu.jpg)
+![Main-Menu](Images/main-menu.jpg)
 
 
 ---
@@ -156,7 +156,7 @@ python main.py
 
 ### Session Key Distribution
 
-![SKD](Images/SKD.jpg)
+![SKD](Images/SKD-demo.jpg)
 
 ## Learning Outcomes
 
