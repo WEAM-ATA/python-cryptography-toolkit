@@ -22,11 +22,7 @@ The primary objective of this project is to provide a practical implementation o
 
 ## System Architecture
 
-> **Insert Architecture Diagram Here**
-
-```
-images/architecture.png
-```
+![Architecture](Images/architecture.png)
 
 ---
 
@@ -124,11 +120,10 @@ python main.py
 
 ## Application Menu
 
-> **Insert Main Menu Screenshot**
 
-```
-images/main-menu.png
-```
+
+![[Main-Menu](images/main-menu.jpg)
+
 
 ---
 
@@ -136,31 +131,19 @@ images/main-menu.png
 
 ### AES Encryption
 
-> **Insert Screenshot**
-
-```
-images/aes-demo.png
-```
+![AES-Demo](AES.jpg)
 
 ---
 
 ### RSA Encryption
 
-> **Insert Screenshot**
-
-```
-images/rsa-demo.png
-```
+![RSA-demo](rsa.jpg)
 
 ---
 
 ### SHA-256 Hashing
 
-> **Insert Screenshot**
-
-```
-images/hash-demo.png
-```
+![Hashing](Hash)
 
 ---
 
