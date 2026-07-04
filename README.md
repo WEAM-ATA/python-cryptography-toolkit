@@ -47,8 +47,6 @@ python-cryptography-toolkit/
 │
 ├── sample/
 │
-├── screenshots/
-│
 └── images/
 ```
 
