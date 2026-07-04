@@ -1,0 +1,28 @@
+Programming Assignment: Cryptography Software System
+
+Objective
+Students are required to design and implement a software application that demonstrates fundamental cryptographic concepts including symmetric encryption, asymmetric encryption, session key distribution, hashing, and message authentication codes (MAC).
+General Requirements
+The software may be developed using Python, Java, C++, or any approved programming language.
+The program must be menu-driven (console-based or GUI).
+Each cryptographic function must be implemented as a separate module or function.
+Clear comments and proper documentation are required.
+The program must demonstrate both encryption and decryption where applicable.
+Required Modules
+Symmetric Encryption Module: Implement a symmetric encryption algorithm such as Caesar Cipher, Vigenere Cipher, or AES. The module must accept plaintext and key input, perform encryption, and correctly decrypt the ciphertext.
+Asymmetric Encryption Module (RSA): Implement RSA including key generation, encryption using public key, and decryption using private key. The program must display generated keys.
+Session Key Distribution Module: Generate a random session key, encrypt it using RSA public key, and decrypt it using the private key. Demonstrate how it can be used with symmetric encryption.
+Hash Algorithm Module: Implement a secure hash function such as SHA-256. Demonstrate that a small change in input produces a completely different hash value.
+Message Authentication Code (MAC) Module: Implement MAC using HMAC-SHA256 or similar. Accept a message and secret key and generate the MAC value.
+Program Structure
+The application should include a main menu with the following options:
+1. Symmetric Encryption
+2. Asymmetric Encryption (RSA)
+3. Session Key Distribution
+4. Hash Function
+5. Message Authentication Code
+6. Exit
+Submission Requirements
+The working software with Source code file(s).
+Short report (1000–1500 words) including explanation of each module and screenshots of execution.
+Demonstration during lab session if required.
