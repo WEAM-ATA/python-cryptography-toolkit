@@ -122,7 +122,7 @@ python main.py
 
 
 
-![[Main-Menu](images/main-menu.jpg)
+![[Main-Menu](Images/main-menu.jpg)
 
 
 ---
@@ -131,51 +131,32 @@ python main.py
 
 ### AES Encryption
 
-![AES-Demo](AES.jpg)
+![AES-Demo](Images/AES.jpg)
 
 ---
 
 ### RSA Encryption
 
-![RSA-demo](rsa.jpg)
+![RSA-demo](Images/rsa.jpg)
 
 ---
 
 ### SHA-256 Hashing
 
-![Hashing](Hash)
+![Hashing](Images/Hash.jpg)
 
 ---
 
-### File Integrity Verification
-
-> **Insert Screenshot**
-
-```
-images/integrity-demo.png
-```
-
----
 
 ### HMAC Authentication
 
-> **Insert Screenshot**
-
-```
-images/hmac-demo.png
-```
+![HMAC](Images/Hmac.jpg)
 
 ---
 
 ### Session Key Distribution
 
-> **Insert Screenshot**
-
-```
-images/session-key-demo.png
-```
-
----
+![SKD](Images/SKD.jpg)
 
 ## Learning Outcomes
 
